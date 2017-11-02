@@ -1,1 +1,4 @@
-# ext-2017-net.wrappy.OldMtProtoKit-fe-iOS
+MtProtoKit
+==========
+
+Universal MTProto framework for both iOS and OS X
